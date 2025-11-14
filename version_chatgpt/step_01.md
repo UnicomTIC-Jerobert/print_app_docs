@@ -1,13 +1,13 @@
-###USER
+**USER**
+
 ok then great so lets start to build the project using react, redux-toolkit , react-konva , tailwind css 4 using react-vite method
 
 first we will create Designer page with the things that we brainstrom afterwards we will built apis and integrate it , going forward we will add feature we want , and in this chat plz provide your suggestion as well while we progress
 
-###RESPONSE
+**RESPONSE**
+
 Perfect 👌 — this is a great stack for what we’re building.
 Let’s kick off the **React-Vite project** setup and outline the initial folder structure for the **Designer Page** (Canvas Editor).
-
----
 
 ## 🧱 Step 1 — Project Setup
 
