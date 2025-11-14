@@ -49,6 +49,7 @@ src/
  └── main.tsx
 ```
 
-What is DesignSlice , we already have CanvasSlice?
-problem in app/strore , then store/index.ts , store/designSlice !!!
+** What is DesignSlice , we already have CanvasSlice?
+
+** problem in app/strore , then store/index.ts , store/designSlice !!!
 ---
