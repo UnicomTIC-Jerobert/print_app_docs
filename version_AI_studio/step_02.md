@@ -265,4 +265,4 @@ export default App;
 2.  Run `npm run dev` in your terminal.
 3.  You should see a basic, static layout of your editor application in your browser, styled with Tailwind CSS.
 
-Once you have this running, let me know! Our next step will be to replace the `CanvasArea` placeholder with a real, interactive `react-konva` Stage and add our first element to the Redux state.
+Once you have this running, let me know!.
