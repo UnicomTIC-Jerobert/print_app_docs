@@ -235,4 +235,4 @@ return (
     *   Click the color swatch to open the color picker and change the text color.
     *   Use the transformer handles to resize the text. The toolbar should reposition itself after you're done.
 
-You now have a much more dynamic and intuitive editing experience. This is a huge step towards a professional-feeling tool. Once you confirm this is working, we can proceed to build the right-hand sidebar with the Layers panel.
+You now have a much more dynamic and intuitive editing experience. This is a huge step towards a professional-feeling tool.
