@@ -1,5 +1,7 @@
 **USER**
 
+we can proceed to build the right-hand sidebar with the Layers panel.
+
 **RESPONSE**
 
 Excellent. Building the Layers Panel is a huge step towards making this a professional-grade tool. It gives users fine-grained control over the composition of their design.
@@ -364,4 +366,4 @@ export default CanvasArea;
     *   Click the "lock" icon. You should no longer be able to select, move, or resize that element on the canvas. The transformer handles should disappear. Unlock it to restore functionality.
     *   Drag and drop a layer in the list to reorder it. The stacking order of the elements on the canvas should change accordingly.
 
-You now have a powerful and essential feature for any design application. What would you like to tackle next? We could add Shapes, Images, or build out the "Properties" tab for the placeholder logic.
+You now have a powerful and essential feature for any design application.
