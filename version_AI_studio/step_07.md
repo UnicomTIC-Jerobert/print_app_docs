@@ -1,5 +1,7 @@
 **USER**
 
+What would you like to tackle next? We could add Shapes, Images, or build out the "Properties" tab for the placeholder logic.
+
 **RESPONSE**
 
 Excellent. Let's build out the "Properties" tab and implement the core "Static vs. Placeholder" functionality. This is a critical feature that turns our design tool into a powerful templating engine.
