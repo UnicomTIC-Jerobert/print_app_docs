@@ -10,7 +10,7 @@ We'll start by adding a simple Rectangle. This process will beautifully demonstr
 
 ---
 
-### **Phase 1, Step 8: Adding Shape Elements**
+### **Phase 1, Step_08: Adding Shape Elements**
 
 #### **1. Update the Redux Slice (`editorSlice.ts`)**
 
