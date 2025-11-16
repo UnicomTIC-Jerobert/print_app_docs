@@ -13,7 +13,7 @@ In this step, we will:
 
 ---
 
-### **Phase 1, Step 2: Implementing the Interactive Canvas**
+### **Phase 1, Step_02: Implementing the Interactive Canvas**
 
 #### **1. Flesh out the Redux Slice (`editorSlice.ts`)**
 
