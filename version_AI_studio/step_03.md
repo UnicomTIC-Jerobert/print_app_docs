@@ -10,7 +10,7 @@ We'll need to update our Redux state to track which element is selected, and the
 
 ---
 
-### **Phase 1, Step 3: Making Elements Selectable & Movable**
+### **Phase 1, Step_03: Making Elements Selectable & Movable**
 
 #### **1. Update the Redux Slice (`editorSlice.ts`)**
 
