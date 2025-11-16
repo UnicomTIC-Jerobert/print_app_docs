@@ -26,7 +26,7 @@ Let's start with the Contextual Toolbar.
 
 ---
 
-### **Phase 1, Step 4: Building the Contextual Toolbar**
+### **Phase 1, Step_04: Building the Contextual Toolbar**
 
 This toolbar will live outside the Konva canvas but will be positioned based on the selected element's location.
 
