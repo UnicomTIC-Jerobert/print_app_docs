@@ -1,6 +1,6 @@
 **USER**
 
-sure im ready for the next step , lets proceed !!!
+Next, we can move on to adding more design elements like Shapes and Images. Which would you like to do first?
 
 **RESPONSE**
 
