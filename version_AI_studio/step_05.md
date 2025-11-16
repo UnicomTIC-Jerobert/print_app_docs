@@ -10,7 +10,7 @@ We will build the right-hand sidebar with a tabbed interface. The first tab will
 
 ---
 
-### **Phase 1, Step 5: Building the Layers Panel**
+### **Phase 1, Step_05: Building the Layers Panel**
 
 #### **1. Update the Redux Slice (`editorSlice.ts`)**
 
