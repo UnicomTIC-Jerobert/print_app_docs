@@ -10,6 +10,8 @@ Here are the step-by-step instructions.
 
 ---
 
+### **Phase 1, Step_07: Placeholder Functionality**
+
 ### **Step 1: Update Redux State (`editorSlice.ts`)**
 
 First, we'll modify the `TextElement` type to include the new placeholder fields and set their default values when a new element is created.
