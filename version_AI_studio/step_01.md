@@ -13,7 +13,7 @@ I'll act as your co-pilot, providing code, explanations, and suggestions as we g
 
 ---
 
-### **Phase 1, Step 1: Project Setup & Core Configuration**
+### **Phase 1, Step_01: Project Setup & Core Configuration**
 
 Our goal is to get a running Vite project with Tailwind CSS, Redux Toolkit, and a placeholder for Konva, all structured correctly.
 
