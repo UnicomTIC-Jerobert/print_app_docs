@@ -1,6 +1,6 @@
 **USER**
 
-Next, we can move on to adding more design elements like Shapes and Images. Which would you like to do first?
+Next , lets revalidate the Placeholder Functionality !!!
 
 **RESPONSE**
 
