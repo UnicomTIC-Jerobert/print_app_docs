@@ -10,7 +10,7 @@ Our goal is to create the UI in the right-hand panel that allows a designer to s
 
 ---
 
-### **Phase 1, Step 6: Implementing the Placeholder Properties Panel**
+### **Phase 1, Step_06: Implementing the Placeholder Properties Panel**
 
 #### **1. Update the Redux Slice (`editorSlice.ts`)**
 
