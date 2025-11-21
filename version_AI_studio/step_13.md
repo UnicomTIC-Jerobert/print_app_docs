@@ -144,4 +144,4 @@ Replace the entire `"scripts"` block with this new configuration:
 4.  **Test the API:** Open a new browser tab and navigate to `http://localhost:3001/templates`. You should see the JSON data from your `db.json` file.
 5.  **Test the App:** Your React application should still be running as normal at `http://localhost:5173/`.
 
-Once you have confirmed that both servers are running correctly, let me know, and we will proceed to **Step 2: Implement Routing and the Dashboard Page.**
+Once you have confirmed that both servers are running correctly, let me know,
