@@ -153,4 +153,4 @@ export default App;
     *   Click the **"Edit"** button. The URL should change to `/editor/annual-report-template`, and you should see the editor layout. (It won't load the correct data yet; that's the next step).
     *   Go back to the dashboard. Click the **"Use"** button. The URL should change to `/sendouts/annual-report-template`, and you should see our simple placeholder text.
 
-Once you have successfully verified this new navigation and the dashboard is displaying correctly, let me know, and we'll move on to **Step 3: Connecting the Editor to Load and Save Data.**
+Once you have successfully verified this new navigation and the dashboard is displaying correctly, let me know, and we'll move on to 
